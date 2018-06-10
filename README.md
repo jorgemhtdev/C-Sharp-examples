@@ -13,5 +13,5 @@
 
 
 # Copyright and license
-----
+
 The MIT License (MIT) see [License file](https://github.com/jorgemht/C-Sharp-examples/blob/master/LICENSE)
