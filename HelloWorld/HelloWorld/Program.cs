@@ -7,7 +7,6 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World" +"\nPress enter to close...");
-            Console.WriteLine("");
             Console.ReadLine();
         }
     }
